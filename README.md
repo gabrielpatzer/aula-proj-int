@@ -24,3 +24,4 @@
 -   Crie as issues/problemas do seu projeto, de acordo com os requisitos funcionais já identificados
 -   Crie milestones e associe issues de acordo
 -   Resolva o issue do seu projeto no [repositório do professor](https://github.com/gabrielpatzer/aula-proj-int), adicionando a descrição do que você fez e adicionando o link para as suas issues
+
