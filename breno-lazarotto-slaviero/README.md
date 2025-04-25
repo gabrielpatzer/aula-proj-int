@@ -1,6 +1,6 @@
-﻿# Álcool.bet
+﻿# ![Álcool.bet](https://github.com/AugustoMiotto/Alcool.bet)
 ![Static Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
-	Este é um projeto de um site de comercialização e delivery de bebidas alcoólicas, desenvolvido em colaboração com Augusto Miotto, Matheus Assumpção e Fabrício De Abreu, como parte da disciplina Projeto Integrador.
+	Este é um projeto de um site de comercialização e delivery de bebidas alcoólicas, desenvolvido em colaboração com ![João Pedro Gambim](https://github.com/GambimJoao), ![Augusto Miotto](https://github.com/AugustoMiotto), ![Matheus Assumpção](https://github.com/matheuslinke) e ![Fabrício De Abreu](https://github.com/fabricioabr), como parte da disciplina Projeto Integrador.
 ## Requisitos Funcionais
  1. Pesquisa
 	 - Capacidade de realizar pesquisas de produtos através de uma barra de pesquisa digitada.
